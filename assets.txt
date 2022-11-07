@@ -1,0 +1,43 @@
+Header Section -
+Header:
+https://i.e.allegiant.com/wpm/986/G4/c/allways/G4_AllwaysRewards_Logo_d.png
+Sub-Header:
+http://i.e.allegiant.com/wpm/986/G4/c/deals/2022/AllegiantPay_TopBanner_d.png
+
+Deals Section
+Winter Deals:
+http://i.e.allegiant.com/wpm/986/G4/c/deals/2022/110622_Deals_d_Winter.png
+Spring Deals:
+http://i.e.allegiant.com/wpm/986/G4/c/deals/2022/110622_Deals_d_Spring.png
+Summer Deals:
+http://i.e.allegiant.com/wpm/986/G4/c/deals/2022/110622_Deals_d_Summer.png
+
+Advertisment Section -
+Advertisment:
+https://i.e.allegiant.com/wpm/986/G4/c/common/2023_SKR_BottomBanner_Animated_d.gif
+
+2 Column Offers -
+Mastercard:
+http://i.e.allegiant.com/wpm/986/G4/a/emailbanners/NewBanner-MastercardV4-m.png
+Rock Out:
+https://i.e.allegiant.com/wpm/986/G4/a/emailbanners/TFAY_Banner_Q4_d.png
+
+
+Allegiant Pay:
+https://i.e.allegiant.com/wpm/986/G4/a/emailbanners/AllegiantPay_Banner_d.png
+Allegiant Bundles:
+http://i.e.allegiant.com/wpm/986/G4/c/common/Bundles_d.png
+
+Pre Footer -
+Health and Safety:
+http://i.e.allegiant.com/wpm/986/G4/a/emailbanners/HealthSafety-TopEmailBanner-d.png
+
+Social Media Icons -
+Facebook:
+http://i.e.allegiant.com/wpm/986/G4/c/common/socialicons-grey-fb.png
+Twitter:
+http://i.e.allegiant.com/wpm/986/G4/c/common/socialicons-grey-tw.png
+Youtube:
+http://i.e.allegiant.com/wpm/986/G4/c/common/socialicons-grey-yt.png
+Instagram:
+http://i.e.allegiant.com/wpm/986/G4/c/common/socialicons-grey-ig.png

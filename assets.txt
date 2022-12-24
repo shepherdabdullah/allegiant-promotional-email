@@ -1,43 +1,59 @@
 Header Section -
 Header:
-https://i.e.allegiant.com/wpm/986/G4/c/allways/G4_AllwaysRewards_Logo_d.png
+https://i.ibb.co/QkJ5D8m/G4-Allways-Rewards-Logo-d.png
 Sub-Header:
-http://i.e.allegiant.com/wpm/986/G4/c/deals/2022/AllegiantPay_TopBanner_d.png
+https://i.ibb.co/vJz7W9g/Allegiant-Pay-Top-Banner-d.png
 
 Deals Section
 Winter Deals:
-http://i.e.allegiant.com/wpm/986/G4/c/deals/2022/110622_Deals_d_Winter.png
+https://i.ibb.co/LNjM9Jm/110622-Deals-d-Winter.png
 Spring Deals:
-http://i.e.allegiant.com/wpm/986/G4/c/deals/2022/110622_Deals_d_Spring.png
+https://i.ibb.co/grZydkq/110622-Deals-d-Spring.png
 Summer Deals:
-http://i.e.allegiant.com/wpm/986/G4/c/deals/2022/110622_Deals_d_Summer.png
+https://i.ibb.co/MyHg2ZS/110622-Deals-d-Summer.png
 
 Advertisment Section -
 Advertisment:
-https://i.e.allegiant.com/wpm/986/G4/c/common/2023_SKR_BottomBanner_Animated_d.gif
+https://i.ibb.co/S0Yq9Rr/2023-SKR-Bottom-Banner-Animated-d.gif
 
 2 Column Offers -
 Mastercard:
-http://i.e.allegiant.com/wpm/986/G4/a/emailbanners/NewBanner-MastercardV4-m.png
+https://i.ibb.co/74JpYy8/New-Banner-Mastercard-V4-m.png
 Rock Out:
-https://i.e.allegiant.com/wpm/986/G4/a/emailbanners/TFAY_Banner_Q4_d.png
+https://i.ibb.co/xqhsHrr/TFAY-Banner-Q4-d.png
 
 
 Allegiant Pay:
-https://i.e.allegiant.com/wpm/986/G4/a/emailbanners/AllegiantPay_Banner_d.png
+https://i.ibb.co/xsWcvVW/Allegiant-Pay-Banner-d.png
 Allegiant Bundles:
-http://i.e.allegiant.com/wpm/986/G4/c/common/Bundles_d.png
+https://i.ibb.co/v11Bx3P/Bundles-d.png
 
 Pre Footer -
 Health and Safety:
-http://i.e.allegiant.com/wpm/986/G4/a/emailbanners/HealthSafety-TopEmailBanner-d.png
+https://i.ibb.co/x3Hck1b/Health-Safety-Top-Email-Banner-d.png
 
 Social Media Icons -
 Facebook:
-http://i.e.allegiant.com/wpm/986/G4/c/common/socialicons-grey-fb.png
+https://i.ibb.co/zV93NGF/socialicons-grey-fb.png
 Twitter:
-http://i.e.allegiant.com/wpm/986/G4/c/common/socialicons-grey-tw.png
+https://i.ibb.co/hHX7T5r/socialicons-grey-tw.png
 Youtube:
-http://i.e.allegiant.com/wpm/986/G4/c/common/socialicons-grey-yt.png
+https://i.ibb.co/19FQ31c/socialicons-grey-yt.png
 Instagram:
-http://i.e.allegiant.com/wpm/986/G4/c/common/socialicons-grey-ig.png
+https://i.ibb.co/mzgNzxY/socialicons-grey-ig.png
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
